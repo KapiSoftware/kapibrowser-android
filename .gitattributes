@@ -1,1 +1,3 @@
+# Treat XML files as code
 *.xml linguist-language=XML
+*.xml linguist-detectable=true
